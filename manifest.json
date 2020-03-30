@@ -1,0 +1,11 @@
+{
+	"files": {
+		"README.md": "ef97d8a1d750fee7baf7e672668d6a943d1185d42c31ab4362394474433366f7",
+		"index.js": "404decd6ec6f4dc84e7ad3d79bedd05ddf49cd335647e833979f208bd9067c25",
+		"module.json": "2642acaa316ef149962ffc295d6c539a6d3ea5210047a2a81083caec431c7a4d"
+	},
+	"defs": {
+        "S_PREPARE_EXIT": 1,
+        "S_EXIT": 3
+    }
+}

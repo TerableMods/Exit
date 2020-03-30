@@ -1,0 +1,12 @@
+{
+  "disableAutoUpdate": false,
+  "name": "Exit",
+  "author": "TerableMods",
+  "description": "Exits the game instantly and adds a command for exiting",
+  "options": {
+    "niceName": "Exit",
+    "guiName": "Exit"
+  },
+  "servers": ["https://raw.githubusercontent.com/TerableMods/Exit/master/"],
+  "supportUrl": "https://github.com/TerableMods/Exit/issues"
+}
